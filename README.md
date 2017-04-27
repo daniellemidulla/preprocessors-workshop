@@ -172,10 +172,10 @@ And that's it! Feel free to take it one step further and use jQuery for the last
 
 ## And You're Done!
 At this point you should have ...
-- [ ] Set up flow
-- [ ] Started with CoffeeScript
-- [ ] Worked your way through the Tic-Tac-Toe game
-- [ ] Understand how these programs work the way they do!
+- [x] Set up flow
+- [x] Started with CoffeeScript
+- [x] Worked your way through the Tic-Tac-Toe game
+- [x] Understand how these programs work the way they do!
 
 ## Credits
 Tic-tac-toe modified from http://www.sitepoint.com/practical-coffeescript-tic-tac-toe
